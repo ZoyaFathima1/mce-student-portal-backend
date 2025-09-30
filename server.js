@@ -36,7 +36,7 @@ app.use(
     origin: [
       "http://localhost:8080",
       "http://localhost:5173",
-      "https://your-frontend.vercel.app",
+      "https://mce-student-portal-frontend-mu.vercel.app/",
     ],
     credentials: true,
   })
